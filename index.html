@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Si j'étais... Timothé Bureau</title>
+	<link rel="stylesheet" href="./style.css">
+	<link rel="icon" type="image/jpg" href="/img/t.png">
+</head>
+
+<body>
+	<!-- accueil -->
+	<section id="accueil">
+		<h1>SI J'ÉTAIS<br><strong>Timothé,</strong><br>
+			<em>JE SERAIS<strong>...</strong></em><br>
+			<a href="#liste-analogies"><span></span></a>
+		</h1>
+	</section>
+
+	<!-- contenu portrait chinois -->
+	<div class="liste-analogies" id='liste-analogies'></div>
+
+	<!-- formulaire -->
+	<form action="#" method="" id="form">
+		<fieldset>
+			<legend><strong>D'autres idées ?</strong><br>
+				<div>Complétez le formulaire pour <em>générer</em> votre idée, <br>scrollez en bas pour voir à quoi elle pourrait <em>ressembler</em>, <br>cliquez sur <em>Envoyer</em> pour me partager votre idée...</div>
+			</legend>
+
+			<label for="text">Si j'étais...</label><br>
+			<input type="text" name="text" id="analogie" required><br>
+
+			<label for="text">Je serais...</label><br>
+			<input type="text" name="text" id="valeurAnalogie" required><br><br>
+
+			<textarea name="justif" id="justif" cols="40" rows="5" placeholder="Parce que..."></textarea><br>
+
+			<label for="courriel">Votre email</label><br>
+			<input type="email" name="courriel" id="email" required><br><br>
+		</fieldset>
+		<input type="submit" id="submit"><br>
+		<div id="messageApresEnvoi"></div>
+	</form>
+
+	<div class="nouvelle-analogie"></div>
+
+	<section id="retour-haut">
+			<a href="#accueil"><span></span><em>haut-de-page</em></a>
+		</h1>
+	</section>
+
+	<!-- mentions légales déroulantes -->
+	<footer>
+		<section class="volet-invisible">
+			<h5><strong>Mentions légales</strong> <em>(cliquez)</em></h5>
+			<p>Projet réalisé par Timothé Bureau dans le cadre de la formation BUT MMI à l'IUT de Champs-sur-Marne.<br>
+			© 2021 Tous droits réservés par Timothé Bureau.<br>
+			Images :<br>
+			aurore.jpg : ©Tous droits réservés par <a href="https://www.flickr.com/photos/138340860@N05/">audreydesveaux</a><br>
+			lynx.jpg : © Tous droits réservés par <a href="https://www.flickr.com/photos/xaviercoupaye/">spartacus8354</a><br>
+			jardinjaponais.jpg : © Tous droits réservés par <a href="https://www.flickr.com/photos/giveaphuk/">pixelwhip</a><br>
+			narnia.jpg : © Tous droits réservés par <a href="https://www.flickr.com/photos/25399047@N06/">durelle</a><br>
+			pinterest.jpg: © Tous droits réservés par <a href="https://www.flickr.com/photos/gerardoharias/">Gerardo Hernández Arias</a><br>
+			danse.jpg : © Tous droits réservés par <a href="https://www.flickr.com/photos/ray-delrone/">Ray Delrone</a><br>
+			jackfrost.jpg : © Tous droits réservés par <a href="https://www.flickr.com/photos/99217385@N03/">sandrieliribeiro</a><br>
+			Icons made by <a href="https://www.flaticon.com/authors/dinosoftlabs"
+			title="DinosoftLabs">DinosoftLabs</a> et <a href="https://www.freepik.com"
+			title="Freepik">Freepik</a>, from <a href="https://www.flaticon.com/"
+			title="Flaticon">www.flaticon.com</a><br>
+			</p>
+		</section>
+	</footer>
+
+
+	<script src="./script.js"></script>
+
+</body>
+
+</html>

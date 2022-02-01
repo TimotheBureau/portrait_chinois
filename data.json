@@ -1,0 +1,58 @@
+[
+    {
+        "analogie": "une Couleur",
+        "valeur": "la couleur Aurore",
+        "justif": "cette couleur contient d'abord du jaune et du orange, mes couleurs préférées. On y retrouve aussi une touche de rose qui reflète la sensibilité, et je vois aussi dans cette couleur douce l'espoir et la sérénité.",
+        "class": "couleur",
+        "id": "couleur",
+        "justifid":"justifCouleur"
+    },
+    {
+        "analogie": "un Animal",
+        "valeur": "le Lynx",
+        "justif": "je suis quelqu'un de discret, mais je suis observateur.",
+        "class": "animal",
+        "id": "animal",
+        "justifid":"justifAnimal"
+    },
+    {
+        "analogie": "un Endroit",
+        "valeur": "un Jardin japonais",
+        "justif": "chaque détail y est compté, rien ne semble carré mais pourtant, tout y est réfléchi et pensé.",
+        "class": "endroit",
+        "id": "endroit",
+        "justifid":"justifEndroit"
+    },
+    {
+        "analogie": "un Livre",
+        "valeur": "<em>Les Chroniques de Narnia</em>",
+        "justif": "j'aime particulièrement le style fantastique, ce lien entre le réel et l'iréel, entre la vie sur terre et un au-delà. <br>Aussi, je trouve l'histoire très profonde, le protagonistes y vivent différentes aventures qui, en étudiant entre les lignes, se rapportent aux différentes luttes que nous pouvons connaître, tel que la tentation, la trahison, le pardon, la justice, la loyauté, l'acceptation, etc. <br>J'aime l'imagination de son auteur C.S. Lewis et les différents univers que l'on traverse au cour de la lecture. <br>Bref, c'est pour moi un best-seller !",
+        "class": "livre",
+        "id": "livre",
+        "justifid":"justifLivre"
+    },
+    {
+        "analogie": "un Réseau social",
+        "valeur": "Pinterest",
+        "justif": "ce réseau social est une réelle source d'inspiration pour moi, sans pour autant être un réseau nocif comme beaucoup d'autres.<br>Son but est vraiment de partager librement des idées, des styles, des inspirations, sans l'imposer à l'internaute.<br>J'aime le webdesign très épuré de Pinterest, la présentation des épingles, la manière de trier nos inspirations, la manière de partager les choses, tout est très esthétique et pourtant très simple.<br>Ce réseau social est comme une grande galerie d'art à laquelle on accède en un clic.",
+        "class": "reseau",
+        "id": "reseau",
+        "justifid":"justifReseau"
+    },
+    {
+        "analogie": "un Art",
+        "valeur": "la Danse",
+        "justif": " cet art est un mélange entre plusieurs choses que sont le rythme et la musique, l'expression de soi, le mouvement et la technique. C'est en liant ces différentes notions que l'on donne lieu à la danse.<br>Pour moi, de nombreux aspects de la vie nécessitent d'être unis pour fonctionner.",
+        "class": "danse",
+        "id": "danse",
+        "justifid":"justifDanse"
+    },
+    {
+        "analogie": "un Personnage fictif",
+        "valeur": "Jack Frost",
+        "justif": "ce personnage enfantin m'inspire beaucoup par le symbole de liberté qu'il est. Il représente aussi la joie de l'hiver.<br>Mais il symbolise aussi la lutte contre une certaine mélancolie, la lutte pour rechercher le bien, cela en rapport au personnage issu du dessin animé <em>Les cinq légendes</em>, sorti en 2012.<br>Quant à l'hiver, c'est aussi l'idée des différentes saisons qui traverse notre vie.<br>Ici, l'hiver est le symbole d'un temps d'épreuve, mais aussi d'un temps d'apprentissage et d'évolution, ce qui se relie à merveille avec l'histoire du personnage cité.",
+        "class": "perso",
+        "id": "perso",
+        "justifid":"justifPerso"
+    }
+]
