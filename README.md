@@ -6,4 +6,4 @@ Portrait chinois
 *** 
 Projet réalisé dans le cadre de la formation BUT MMI, à Champs-sur-Marne. 
 ***
-URL : 
+URL : https://timothebureau.github.io/portrait_chinois/
